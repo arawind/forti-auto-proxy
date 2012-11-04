@@ -6,4 +6,5 @@ $(document).ready(function(){
     $("body").html(message);
     window.location = "http://www.cheatfusd.appspot.com/"+wlocation.substring(7);
   }
+
 });
