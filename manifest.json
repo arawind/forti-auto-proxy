@@ -1,7 +1,7 @@
 {
 	"name": "The Proxifier",
 	"version": "0.1",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description":"Bypass fortiguard temporarily",
   "content_scripts":[
     {
